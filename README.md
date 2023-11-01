@@ -10,7 +10,7 @@ It needs to restart the *explorer.exe* process to take effect, **it will ask you
 or<br>
 Download .ps1 files and execute: <br>
 <a href="https://github.com/5qw/StartAllBack/releases/latest/download/StartAllBack-Cleanup.ps1"> StartAllBack-Cleanup.ps1</a>  ➝  ask you permission to restart *explorer.exe* process (same as .exe file) <br>
-<a href="https://github.com/5qw/StartAllBack/releases/latest/download/StartAllBackCleanup-CLEAN.ps1"> StartAllBackCleanup-CLEAN.ps1</a>   ➝  you will need to restart *explorer.exe* process manually. (if you fell more safe)
+<a href="https://github.com/5qw/StartAllBack/releases/latest/download/StartAllBackCleanup-CLEAN.ps1"> StartAllBackCleanup-CLEAN.ps1</a>   ➝  you will need to restart *explorer.exe* process manually. (if you feel more safe)
 
 ## Virus detection
 Detections because it removes registry keys. Use the .ps1 file if you feel more safe to use.
