@@ -13,7 +13,8 @@ Download .ps1 files and execute: <br>
 <a href="https://github.com/5qw/StartAllBack/releases/latest/download/StartAllBackCleanup-CLEAN.ps1"> StartAllBackCleanup-CLEAN.ps1</a>   ➝  you will need to restart *explorer.exe* process manually. (if you feel more safe)
 
 ## Virus detection
-Detections because it removes registry keys. Use the .ps1 file if you feel more safe to use.
+Detections because it removes registry keys. Use the .ps1 file if you feel more safe to use. <br>
+Dont run anything you dont trust.
 <br>
 | Virustotal (.exe) | Virustotal (.ps1) | Hybrid-Analysis (.exe) |
 | -------- | -------- | -------- |
